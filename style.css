@@ -9,3 +9,7 @@ p {
 	text-align: justify;
 	margin: 0 0 15px 0;
 }
+.banner_code {
+	border: solid 1px #ffffff;
+	padding: 4px;
+}
