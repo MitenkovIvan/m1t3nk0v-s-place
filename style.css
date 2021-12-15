@@ -12,3 +12,7 @@ p {
 .banner_code {
 	border: solid 1px #ffffff;
 }
+#menu {
+	font-size: 1.25em;
+	font-weight: bold;
+}
