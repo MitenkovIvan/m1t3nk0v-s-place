@@ -19,5 +19,5 @@ hr {
 	width: 400px;
 }
 .blog_title h1 {
-	line-height: 0em;
+	display: inline;
 }
