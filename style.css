@@ -8,7 +8,7 @@ hr {
 	border: none;
 }
 .menu, .main {
-	padding: 5;
+	padding: 5px;
 }
 .main h1, h2 {
 	color: #ff6400;
