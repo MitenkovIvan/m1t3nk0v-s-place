@@ -6,6 +6,16 @@
 		<link>http://m1t3nk0v.neonarod.com</link>
 		<atom:link href="http://m1t3nk0v.neonarod.com/rss.xml" rel="self" type="application/rss+xml" />
 		<item>
+			<title>Microsoft open-sources 3D Movie Maker</title>
+			<link>http://m1t3nk0v.neonarod.com/en/blog/2022-05-04/001.html</link>
+			<description>
+				3D Movie Maker is a children's computer program published by Microsoft in 1995 under the Microsoft Home multimedia product line.&lt;br&gt;&lt;br&gt;Today Microsoft released the 3D Movie Maker source code under the MIT license, 27 years since its original release.
+				<![CDATA[<br><img src="http://m1t3nk0v.neonarod.com/img/blog/2022-05-04/3dmm.gif" alt="A screenshot of Microsoft 3D Movie Maker" width="250">]]>
+			</description>
+			<pubDate>Wed, 4 May 2022 20:30:00 +0300</pubDate>
+			<guid>http://m1t3nk0v.neonarod.com/en/blog/2022-05-04/001.html</guid>
+		</item>
+		<item>
 			<title>EU joins the Fediverse</title>
 			<link>http://m1t3nk0v.neonarod.com/en/blog/2022-04-29/001.html</link>
 			<description>
@@ -39,7 +49,7 @@
 			<title>Crosser Bot gets hacked</title>
 			<link>http://m1t3nk0v.neonarod.com/en/blog/2022-03-06/001.html</link>
 			<description>
-				Today, many Telegram channels posted the same political post about Russian invasion of Ukraine. It starts with the following words: "We will have to delete this message, and some of us will even be fired or imprisoned, but we cannot take it anymore".
+				Today many Telegram channels posted the same political post about Russian invasion of Ukraine. It starts with the following words: "We will have to delete this message, and some of us will even be fired or imprisoned, but we cannot take it anymore".
 				<![CDATA[<br><img src="http://m1t3nk0v.neonarod.com/img/blog/2022-03-06/telega.gif" alt="We will have to delete this message, and some of us will even be fired or imprisoned, but we cannot take it anymore." width="250">]]>
 			</description>
 			<pubDate>Sun, 06 Mar 2022 16:15:00 +0300</pubDate>
