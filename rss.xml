@@ -3,67 +3,67 @@
 	<channel>
 		<title>m1t3nk0v's place</title>
 		<description>RSS-лента сайта m1t3nk0v's place</description>
-		<link>http://m1t3nk0v.neonarod.com</link>
-		<atom:link href="http://m1t3nk0v.neonarod.com/rss.xml" rel="self" type="application/rss+xml" />
+		<link>http://[SITE_DOMAIN]</link>
+		<atom:link href="http://[SITE_DOMAIN]/rss.xml" rel="self" type="application/rss+xml" />
 		<item>
 			<title>Евросоюз присоединяется к Fediverse</title>
-			<link>http://m1t3nk0v.neonarod.com/blog/2022-04-29/001.html</link>
+			<link>http://[SITE_DOMAIN]/blog/2022-04-29/001.html</link>
 			<description>
 				Вчера европейский инспектор по защите данных (EDPS) заявил о запуске публичной пилотной фазы двух платформ социальных сетей: EU Voice и EU Video, на основе программного обеспечения Mastodon и PeerTube.
-				<![CDATA[<br><img src="http://m1t3nk0v.neonarod.com/blog/2022-04-29/eu_mstdn.gif" alt="Евросоюз присоединяется к Fediverse" width="250">]]>
+				<![CDATA[<br><img src="http://[SITE_DOMAIN]/blog/2022-04-29/eu_mstdn.gif" alt="Евросоюз присоединяется к Fediverse" width="250">]]>
 			</description>
 			<pubDate>Fri, 29 Apr 2022 17:35:00 +0300</pubDate>
-			<guid>http://m1t3nk0v.neonarod.com/blog/2022-04-29/001.html</guid>
+			<guid>http://[SITE_DOMAIN]/blog/2022-04-29/001.html</guid>
 		</item>
 		<item>
 			<title>Winamp. It really SUCKS the llama's ass</title>
-			<link>http://m1t3nk0v.neonarod.com/blog/2022-03-17/001.html</link>
+			<link>http://[SITE_DOMAIN]/blog/2022-03-17/001.html</link>
 			<description>
 				Позор вам, Radionomy. Так тупо выстрелить себе в ногу, не сделав для легендарного плеера конца 90-х и начала 00-х Winamp ровным счётом ничего и в итоге лишь втоптав его честное имя в грязь ради продажи очередного NFT - это надо уметь.
-				<![CDATA[<br><img src="http://m1t3nk0v.neonarod.com/blog/2022-03-17/winamp-nft-initiative.gif" alt="Остановитесь!" width="250">]]>
+				<![CDATA[<br><img src="http://[SITE_DOMAIN]/blog/2022-03-17/winamp-nft-initiative.gif" alt="Остановитесь!" width="250">]]>
 			</description>
 			<pubDate>Thu, 17 Mar 2022 13:40:00 +0300</pubDate>
-			<guid>http://m1t3nk0v.neonarod.com/blog/2022-03-17/001.html</guid>
+			<guid>http://[SITE_DOMAIN]/blog/2022-03-17/001.html</guid>
 		</item>
 		<item>
 			<title>LimeWire возвращается. Но не всё так просто</title>
-			<link>http://m1t3nk0v.neonarod.com/blog/2022-03-14/001.html</link>
+			<link>http://[SITE_DOMAIN]/blog/2022-03-14/001.html</link>
 			<description>
 				Кто-нибудь вообще знает, что такое LimeWire?&lt;br&gt;&lt;br&gt;Была, значит, такая программа для поиска и скачивания файлов по P2P-протоколу. Начала свою историю в 2000 году и пользовалась большим спросом на протяжении целого десятилетия как площадка для пиратской музыки, фильмов, документов и, конечно же, компьютерных вирусов (!!!).
-				<![CDATA[<br><img src="http://m1t3nk0v.neonarod.com/blog/2022-03-14/limewire.gif" alt="Интерфейс программы LimeWire" width="250">]]>
+				<![CDATA[<br><img src="http://[SITE_DOMAIN]/blog/2022-03-14/limewire.gif" alt="Интерфейс программы LimeWire" width="250">]]>
 			</description>
 			<pubDate>Mon, 14 Mar 2022 08:40:00 +0300</pubDate>
-			<guid>http://m1t3nk0v.neonarod.com/blog/2022-03-14/001.html</guid>
+			<guid>http://[SITE_DOMAIN]/blog/2022-03-14/001.html</guid>
 		</item>
 		<item>
 			<title>Массовая рассылка в Telegram</title>
-			<link>http://m1t3nk0v.neonarod.com/blog/2022-03-06/001.html</link>
+			<link>http://[SITE_DOMAIN]/blog/2022-03-06/001.html</link>
 			<description>
 				Сегодня в Telegram была зафиксирована массовая рассылка одного и того же сообщения во множество каналов, связанного с ситуацией на территории Украины и призывающего к выходу на митинги.
-				<![CDATA[<br><img src="http://m1t3nk0v.neonarod.com/blog/2022-03-06/telega.gif" alt="После этих слов в Telegram начался сущий кошмар" width="250">]]>
+				<![CDATA[<br><img src="http://[SITE_DOMAIN]/blog/2022-03-06/telega.gif" alt="После этих слов в Telegram начался сущий кошмар" width="250">]]>
 			</description>
 			<pubDate>Sun, 06 Mar 2022 16:15:00 +0300</pubDate>
-			<guid>http://m1t3nk0v.neonarod.com/blog/2022-03-06/001.html</guid>
+			<guid>http://[SITE_DOMAIN]/blog/2022-03-06/001.html</guid>
 		</item>
 		<item>
 			<title>Twitter - ВСЁ!</title>
-			<link>http://m1t3nk0v.neonarod.com/blog/2022-03-05/001.html</link>
+			<link>http://[SITE_DOMAIN]/blog/2022-03-05/001.html</link>
 			<description>
 				Вчера вечером появилась новость о том, что Роскомнадзор заблокировал Twitter на территории Российской Федерации.
-				<![CDATA[<br><img src="http://m1t3nk0v.neonarod.com/blog/2022-03-05/twitter.gif" alt="NOOOOO MOOOOOORE TWITTER!!!!" width="100">]]>
+				<![CDATA[<br><img src="http://[SITE_DOMAIN]/blog/2022-03-05/twitter.gif" alt="NOOOOO MOOOOOORE TWITTER!!!!" width="100">]]>
 			</description>
 			<pubDate>Sat, 05 Mar 2022 10:05:00 +0300</pubDate>
-			<guid>http://m1t3nk0v.neonarod.com/blog/2022-03-05/001.html</guid>
+			<guid>http://[SITE_DOMAIN]/blog/2022-03-05/001.html</guid>
 		</item>
 		<item>
 			<title>Hello, world!</title>
-			<link>http://m1t3nk0v.neonarod.com/blog/2022-02-28/001.html</link>
+			<link>http://[SITE_DOMAIN]/blog/2022-02-28/001.html</link>
 			<description>
 				Новая версия моего сайта официально открыта!&lt;br&gt;&lt;br&gt;А чтобы убедиться в том, что всё действительно работает, держите небольшую каракулю :-)))
-				<![CDATA[<br><img src="http://m1t3nk0v.neonarod.com/blog/2022-02-28/hello.gif" alt="Привет, Интернет! :D" width="100">]]>
+				<![CDATA[<br><img src="http://[SITE_DOMAIN]/blog/2022-02-28/hello.gif" alt="Привет, Интернет! :D" width="100">]]>
 			</description>
 			<pubDate>Mon, 28 Feb 2022 22:25:00 +0300</pubDate>
-			<guid>http://m1t3nk0v.neonarod.com/blog/2022-02-28/001.html</guid>
+			<guid>http://[SITE_DOMAIN]/blog/2022-02-28/001.html</guid>
 		</item>
 	</channel>
 </rss>
