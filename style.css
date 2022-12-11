@@ -3,19 +3,19 @@ body {
 }
 hr {
 	height: 2px;
-	color: #ff6400;
-	background-color: #ff6400;
+	color: #009bff;
+	background-color: #009bff;
 	border: none;
 }
 .menu, .main {
 	padding: 5px;
 }
 .main h1, h2 {
-	color: #ff6400;
+	color: #009bff;
 }
 .banner_code {
 	font-size: 0.7em;
-	border: solid 1px #ff6400;
+	border: solid 1px #009bff;
 	width: 400px;
 }
 .blog_title h1 {
