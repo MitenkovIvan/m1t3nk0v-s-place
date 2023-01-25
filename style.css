@@ -3,18 +3,18 @@ body {
 }
 hr {
 	height: 2px;
-	background-color: #009bff;
+	background-color: #ff9b00;
 	border: none;
 }
 .menu, .main {
 	padding: 5px;
 }
 .main h1, h2 {
-	color: #009bff;
+	color: #ff9b00;
 }
 .banner_code {
 	font-size: 0.7em;
-	border: solid 1px #009bff;
+	border: solid 1px #ff9b00;
 	width: 400px;
 }
 .blog_title h1 {
@@ -23,5 +23,5 @@ hr {
 #countdown1 {
 	font-size: 32px;
 	font-weight: bold;
-	color: #009bff;
+	color: #ff9b00;
 }
